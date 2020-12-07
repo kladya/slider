@@ -1,0 +1,2 @@
+# slider
+Image slider készítése.
